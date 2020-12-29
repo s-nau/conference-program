@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>View.Account</OriginalElement>
+  <nodes>
+    <node x="237.0" y="255.0">View.Account.Account</node>
+    <node x="796.0" y="100.0">View.Account.OrgEventView</node>
+    <node x="960.0" y="100.0">View.Account.UserInfoView</node>
+    <node x="1124.0" y="100.0">View.Account.MessageView</node>
+    <node x="1112.0" y="180.0">View.Account.AttMessageView</node>
+    <node x="0.0" y="100.0">View.Account.AttReqView</node>
+    <node x="148.0" y="100.0">View.Account.SpeEventView</node>
+    <node x="632.0" y="100.0">View.Account.EmpEventView</node>
+    <node x="1280.0" y="100.0">View.Account.OrgPersonView</node>
+    <node x="0.0" y="255.0">View.Account.AccountViewFactory</node>
+    <node x="0.0" y="180.0">View.Account.OrgReqView</node>
+    <node x="312.0" y="100.0">View.Account.AttEventView</node>
+    <node x="636.0" y="0.0">View.Account.AccountView</node>
+    <node x="476.0" y="100.0">View.Account.ContactView</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="View.Account.AttEventView" target="View.Account.AccountView">
+      <point x="0.0" y="-15.0" />
+      <point x="384.0" y="70.0" />
+      <point x="673.7777777777778" y="70.0" />
+      <point x="-30.22222222222217" y="15.0" />
+    </edge>
+    <edge source="View.Account.MessageView" target="View.Account.AccountView">
+      <point x="0.0" y="-15.0" />
+      <point x="1192.0" y="60.0" />
+      <point x="749.3333333333334" y="60.0" />
+      <point x="45.33333333333337" y="15.0" />
+    </edge>
+    <edge source="View.Account.AttMessageView" target="View.Account.MessageView">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="View.Account.OrgPersonView" target="View.Account.AccountView">
+      <point x="0.0" y="-15.0" />
+      <point x="1356.0" y="50.0" />
+      <point x="764.4444444444445" y="50.0" />
+      <point x="60.44444444444446" y="15.0" />
+    </edge>
+    <edge source="View.Account.UserInfoView" target="View.Account.AccountView">
+      <point x="0.0" y="-15.0" />
+      <point x="1032.0" y="70.0" />
+      <point x="734.2222222222223" y="70.0" />
+      <point x="30.222222222222285" y="15.0" />
+    </edge>
+    <edge source="View.Account.OrgEventView" target="View.Account.AccountView">
+      <point x="0.0" y="-15.0" />
+      <point x="868.0" y="80.0" />
+      <point x="719.1111111111111" y="80.0" />
+      <point x="15.111111111111086" y="15.0" />
+    </edge>
+    <edge source="View.Account.EmpEventView" target="View.Account.AccountView">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="View.Account.ContactView" target="View.Account.AccountView">
+      <point x="0.0" y="-15.0" />
+      <point x="544.0" y="80.0" />
+      <point x="688.8888888888889" y="80.0" />
+      <point x="-15.111111111111086" y="15.0" />
+    </edge>
+    <edge source="View.Account.OrgReqView" target="View.Account.AttReqView">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="View.Account.SpeEventView" target="View.Account.AccountView">
+      <point x="0.0" y="-15.0" />
+      <point x="220.0" y="60.0" />
+      <point x="658.6666666666666" y="60.0" />
+      <point x="-45.33333333333337" y="15.0" />
+    </edge>
+    <edge source="View.Account.AttReqView" target="View.Account.AccountView">
+      <point x="0.0" y="-15.0" />
+      <point x="64.0" y="50.0" />
+      <point x="643.5555555555555" y="50.0" />
+      <point x="-60.44444444444446" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6935261707988981" x="824.8639523336643" y="176.3848063555114" />
+  <SelectedNodes>
+    <node>View.Account.Account</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

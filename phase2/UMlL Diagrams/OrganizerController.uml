@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Presenter.OrganizerController</OriginalElement>
+  <nodes>
+    <node x="0.0" y="150.0">Presenter.OrganizerController.OrgEventController</node>
+    <node x="0.0" y="0.0">Presenter.OrganizerController.OrganizerController</node>
+    <node x="0.0" y="225.0">Presenter.OrganizerController.OrgReqController</node>
+    <node x="221.0" y="225.0">Presenter.OrganizerController.OrgPersonMenu</node>
+    <node x="189.0" y="300.0">Presenter.OrganizerController.OrgReqMenu</node>
+    <node x="0.0" y="300.0">Presenter.OrganizerController.OrgEventMenu</node>
+    <node x="0.0" y="75.0">Presenter.OrganizerController.OrgPersonController</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="262.0" y="188.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

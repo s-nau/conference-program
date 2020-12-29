@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Presenter.PersonController</OriginalElement>
+  <nodes>
+    <node x="181.0" y="300.0">Presenter.PersonController.LoginMenu</node>
+    <node x="0.0" y="75.0">Presenter.PersonController.ContactController</node>
+    <node x="229.0" y="75.0">Presenter.PersonController.MessageController</node>
+    <node x="189.0" y="225.0">Presenter.PersonController.MessageMenu</node>
+    <node x="0.0" y="300.0">Presenter.PersonController.ContactMenu</node>
+    <node x="0.0" y="150.0">Presenter.PersonController.PersonController</node>
+    <node x="0.0" y="225.0">Presenter.PersonController.UserInfoMenu</node>
+    <node x="0.0" y="375.0">Presenter.PersonController.EventMenu</node>
+    <node x="221.0" y="150.0">Presenter.PersonController.LoginController</node>
+    <node x="0.0" y="0.0">Presenter.PersonController.UserInfoController</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="282.0" y="226.0" />
+  <SelectedNodes>
+    <node>Presenter.PersonController.LoginMenu</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

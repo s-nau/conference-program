@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>View</OriginalElement>
+  <nodes>
+    <node x="0.0" y="75.0">View.Account</node>
+    <node x="0.0" y="150.0">View.Central</node>
+    <node x="0.0" y="0.0">View.AccountHelpers</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="179.5" y="113.5" />
+  <SelectedNodes>
+    <node>View.Account</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

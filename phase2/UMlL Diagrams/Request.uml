@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Request</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">Request.RequestManager</node>
+    <node x="0.0" y="75.0">Request.RequestEntity</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="155.5" y="76.0" />
+  <SelectedNodes>
+    <node>Request.RequestManager</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

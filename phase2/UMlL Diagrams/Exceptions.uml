@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Presenter.Exceptions</OriginalElement>
+  <nodes>
+    <node x="244.0" y="80.0">Presenter.Exceptions.NoDataException</node>
+    <node x="432.0" y="80.0">Presenter.Exceptions.OverwritingException</node>
+    <node x="216.0" y="0.0">Presenter.Exceptions.InvalidChoiceException</node>
+    <node x="0.0" y="80.0">Presenter.Exceptions.InvalidFormatException</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Presenter.Exceptions.NoDataException" target="Presenter.Exceptions.InvalidChoiceException">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="Presenter.Exceptions.InvalidFormatException" target="Presenter.Exceptions.InvalidChoiceException">
+      <point x="0.0" y="-15.0" />
+      <point x="112.0" y="55.0" />
+      <point x="253.33333333333331" y="55.0" />
+      <point x="-74.66666666666669" y="15.0" />
+    </edge>
+    <edge source="Presenter.Exceptions.OverwritingException" target="Presenter.Exceptions.InvalidChoiceException">
+      <point x="0.0" y="-15.0" />
+      <point x="536.0" y="55.0" />
+      <point x="402.6666666666667" y="55.0" />
+      <point x="74.66666666666669" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="395.5" y="78.5" />
+  <SelectedNodes>
+    <node>Presenter.Exceptions.InvalidFormatException</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

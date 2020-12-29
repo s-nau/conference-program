@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>View.Central</OriginalElement>
+  <nodes>
+    <node x="0.0" y="150.0">View.Central.Main</node>
+    <node x="0.0" y="75.0">View.Central.LoginView</node>
+    <node x="0.0" y="0.0">View.Central.MainMenuView</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="147.5" y="113.5" />
+  <SelectedNodes>
+    <node>View.Central.Main</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
